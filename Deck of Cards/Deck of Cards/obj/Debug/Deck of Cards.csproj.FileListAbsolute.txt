@@ -1,0 +1,9 @@
+C:\Users\BOC Student\Desktop\Coding Projects\Deck of Cards\Deck of Cards\bin\Debug\Deck of Cards.exe.config
+C:\Users\BOC Student\Desktop\Coding Projects\Deck of Cards\Deck of Cards\bin\Debug\Deck of Cards.exe
+C:\Users\BOC Student\Desktop\Coding Projects\Deck of Cards\Deck of Cards\bin\Debug\Deck of Cards.pdb
+C:\Users\BOC Student\Desktop\Coding Projects\Deck of Cards\Deck of Cards\obj\Debug\Deck of Cards.csprojResolveAssemblyReference.cache
+C:\Users\BOC Student\Desktop\Coding Projects\Deck of Cards\Deck of Cards\obj\Debug\Deck_of_Cards.Form1.resources
+C:\Users\BOC Student\Desktop\Coding Projects\Deck of Cards\Deck of Cards\obj\Debug\Deck_of_Cards.Properties.Resources.resources
+C:\Users\BOC Student\Desktop\Coding Projects\Deck of Cards\Deck of Cards\obj\Debug\Deck of Cards.csproj.GenerateResource.Cache
+C:\Users\BOC Student\Desktop\Coding Projects\Deck of Cards\Deck of Cards\obj\Debug\Deck of Cards.exe
+C:\Users\BOC Student\Desktop\Coding Projects\Deck of Cards\Deck of Cards\obj\Debug\Deck of Cards.pdb
