@@ -120,11 +120,8 @@ namespace Deck_of_Cards
             cardsInHand.Add(number4); //3
             cardsInHand.Add(number5); //4   //if x+13 = true then pair
             cardsInHand.Sort();
-            // there should be a way to create a loop so I don't need to do billions of if statements.
-            //switch statement (page 144,145)
-            // if division equals with no operand.
 
-
+            //TODO: add logic to recognize pair, flush, etc.
 
             msg = null;
             MessageBox.Show(
