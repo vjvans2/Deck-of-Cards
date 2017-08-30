@@ -77,11 +77,6 @@ namespace Deck_of_Cards
             deckCards.Add("Queen of diamonds");//50
             deckCards.Add("King of diamonds");//51
 
-            //string fullDeck = "";
-            //foreach (string d in deckCards)
-            //    fullDeck += d.ToString() + "\n";
-            //MessageBox.Show(fullDeck, "Full Deck");
-
             Random randomCard = new Random();
             int number1; int number2; int number3; int number4; int number5;
             number1 = randomCard.Next(0, 51);
